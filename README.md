@@ -125,7 +125,7 @@ Folder Link : https://onlinegdb.com/ACzAjswMH
 6. Question Paper Screenshot
 
 
-<img width="1306" height="266" alt="Screenshot 2026-05-07 151350" src="https://github.com/user-attachments/assets/7c0e9514-0bac-4c4a-a913-cc83e0e96129" />
+<img width="1306" height="266" alt="Screenshot 2026-05-07 151350" src="https://github.com/user-attachments/assets/07f5573e-cd3f-43f0-a380-07890b8e8324" />
 
 
 
