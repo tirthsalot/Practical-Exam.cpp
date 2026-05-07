@@ -1,144 +1,135 @@
-# C++ Practical Exam
+# C++ Practical Exam README
 
-## Student Details
-- **Student Name:** ___Tirth salot________________
-- **Enrollment Number:** ___10541________________
-- **Course:** C++ Programming
-- **Practical Exam Date:** ____07-05-2026<img width="1306" height="266" alt="Screenshot 2026-05-07 151350" src="https://github.com/user-attachments/assets/35d9c8fd-3144-4c08-9976-cc79dd9c74cc" />
-_______________
+## Student Information
 
----
-
-# Table of Contents
-
-1. Student Class Program
-2. Car Class Program
-3. Device Inheritance Program
-4. Discount Polymorphism Program
-5. Animal Abstract Class Program
-6. Question Paper Screenshot
-7. Conclusion
+* **Name:** Tirth
+* **Roll Number:** 10541
+* **Subject:** C++ Programming
+* **Practical Exam Date:** 07-05-2026
 
 ---
 
-# 1. Student Class Program
+# Practical 1: Student Management Program
 
 ## Aim
-To create a `Student` class using constructors and display student details using an array of objects.
+
+To create a C++ program using class and object for storing and displaying student details.
 
 ## Concepts Used
-- Classes and Objects
-- Constructors
-- Arrays of Objects
 
-## Sample Output
+* Class and Object
+* Constructor
+* Array of Objects
+* Member Functions
 
-```text
-Student 1:
-Name: Vraj
-Roll Number: 101
+## Online GDB Link
 
-Student 2:
-Name: Sara
-Roll Number: 102
+https://onlinegdb.com/oUJpuU3I01
 
-Student 3:
-Name: Rutik
-Roll Number: 103
-OnlineGDB Link : https://onlinegdb.com/oUJpuU3I01
+## Output
 
-OnlineGDB C++ Compiler
+* Displays name and roll number of students.
 
-2. Car Class Program
-Aim
+---
 
-To demonstrate encapsulation using getter and setter methods.
+# Practical 2: Car Information System
 
-Concepts Used
-Encapsulation
-Getter and Setter Functions
-Sample Output
-Car Model: Land Rover
-Car Year: 2025
-Car Speed: 200 km/h
-OnlineGDB Link : https://onlinegdb.com/yVbsiJtWB
+## Aim
 
-OnlineGDB C++ Compiler
+To create a C++ program using getter and setter methods.
 
-3. Device Inheritance Program
-Aim
+## Concepts Used
 
-To demonstrate inheritance using Device, Laptop, and Smartphone classes.
+* Encapsulation
+* Getter and Setter Functions
+* Private Data Members
 
-Concepts Used
-Inheritance
-Base Class and Derived Class
-Sample Output
-----Laptop Information----
-Laptop Brand: Dell
-Power Consumption: 65
+## Online GDB Link
 
-----Smartphone Information----
-Smartphone Brand: Samsung
-Power Consumption: 25
-OnlineGDB Link : https://onlinegdb.com/k16MVdmTL
+https://onlinegdb.com/yVbsiJtWB
 
-OnlineGDB C++ Compiler
+## Output
 
-4. Discount Polymorphism Program
-Aim
+* Displays car model, year, and speed.
 
-To demonstrate runtime polymorphism using virtual functions.
+---
 
-Concepts Used
-Virtual Functions
-Runtime Polymorphism
-Dynamic Memory Allocation
-Sample Output
-Ac Discount: 20%
-Refrigerator Discount: 12%
-Skincare Discount: 5%
-OnlineGDB Link : https://onlinegdb.com/x8Lfmfhbe
+# Practical 3: Device Information using Inheritance
 
-OnlineGDB C++ Compiler
+## Aim
 
-5. Animal Abstract Class Program
-Aim
+To implement inheritance using Device, Laptop, and Smartphone classes.
 
-To demonstrate abstract classes and pure virtual functions.
+## Concepts Used
 
-Concepts Used
-Abstract Class
-Pure Virtual Functions
-Polymorphism
-Sample Output
-Lion roars
-Lion runs
+* Inheritance
+* Base Class
+* Derived Class
 
-Fish makes bubbles
-Fish swims
-OnlineGDB Link : https://onlinegdb.com/CNPRJ20Y9
+## Online GDB Link
 
-OnlineGDB C++ Compiler
-Folder Link : https://onlinegdb.com/ACzAjswMH
+https://onlinegdb.com/k16MVdmTL
 
-6. Question Paper Screenshot
+## Output
+
+* Displays laptop and smartphone information.
+
+---
+
+# Practical 4: Discount System using Polymorphism
+
+## Aim
+
+To implement runtime polymorphism using virtual functions.
+
+## Concepts Used
+
+* Virtual Function
+* Function Overriding
+* Runtime Polymorphism
+* Dynamic Memory Allocation
+
+## Online GDB Link
+
+https://onlinegdb.com/x8Lfmfhbe
+
+## Output
 
 
-<img width="1306" height="266" alt="Screenshot 2026-05-07 151350" src="https://github.com/user-attachments/assets/07f5573e-cd3f-43f0-a380-07890b8e8324" />
+* Displays different discounts for products.
+
+---
+
+# Practical 5: Abstract Class Example
+
+## Aim
+
+To implement abstraction using pure virtual functions.
+
+## Concepts Used
+
+* Abstract Class
+* Pure Virtual Function
+* Runtime Polymorphism
+
+## Online GDB Link
+
+https://onlinegdb.com/CNPRJ20Y9
+
+## Output
+
+* Displays animal sound and movement.
+---
+
+# Question Paper Screenshot
+
+<img width="1306" height="266" alt="Screenshot 2026-05-07 151350" src="https://github.com/user-attachments/assets/878f47a5-8d04-4f2b-8e48-38881ac8a3b9" />
+
+
+---
 
 
 
-7. Conclusion
+# Conclusion
 
-This practical exam successfully demonstrated the following Object-Oriented Programming concepts in C++:
-
-Classes and Objects
-Constructors
-Encapsulation
-Inheritance
-Polymorphism
-Abstract Classes
-Dynamic Memory Allocation
-
-All programs were compiled and executed successfully.
+All practical programs were executed successfully using C++ concepts like classes, inheritance, polymorphism, abstraction, and encapsulation.
